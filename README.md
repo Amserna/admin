@@ -65,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # admin
+
+## Documentation
+
+- Voir `BANK_LEAVE_APP_BLUEPRINT.md` pour l'architecture complète de l'application de gestion des congés bancaire (Laravel + MySQL).
